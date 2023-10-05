@@ -7,9 +7,9 @@ Welcome to **SlingShot**, an exciting and challenging game where you control a b
 
 ## Gameplay 🕹️
 
-![GameOver Screen](https://github.com/SanderFossedal/SlingShot/assets/126075350/0a5a0e9a-874a-4569-971c-84f6c4c38247)
+![GameOver Screen](https://github.com/SanderFossedal/SlingShot/blob/master/Gameplay1.png)
 
-![GamePlay](https://github.com/SanderFossedal/SlingShot/assets/126075350/aa1a8d41-1f8c-419a-8551-8b87a985e3aa)
+![GamePlay](https://github.com/SanderFossedal/SlingShot/blob/master/Gameplay2.png)
 
 
 In **SlingShot**, you control a vibrant blue ball using your mouse, slinging it across the screen to navigate through the levels. The objective is simple yet challenging: keep your ball alive by hitting red spheres while avoiding obstacles and challenges.
